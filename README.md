@@ -36,7 +36,9 @@ Lo que más me gusta (aparte de comer y dormir) son los **videojuegos** 🎮 —
 
 ##  Mis lenguajes más usados
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate318&layout=donut&langs_count=6&theme=dark" alt="Top Lenguajes" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate318&layout=donut&langs_count=6&theme=dark" alt="Top Lenguajes" />
+</div>
 
 ---
 
