@@ -34,13 +34,9 @@ Lo que más me gusta (aparte de comer y dormir) son los **videojuegos** 🎮 —
 
 ---
 
-## 📫 ¿Me hablas?
+##  Mis lenguajes más usados
 
-Si quieres programar, jugar, colaborar o simplemente rantear del ciclo:
-
-- 📧 **Correo:** [nate.bustamante18@gmail.com]  
-- 🕹️ **GitHub:** [https://github.com/Nate318]  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/luis-bustamante-rojas-48a684371] (si tengo ganas de parecer serio 😅)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate318&layout=donut&langs_count=6&theme=dark" alt="Top Lenguajes" />
 
 ---
 
