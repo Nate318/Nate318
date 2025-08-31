@@ -12,7 +12,7 @@ Lo que más me gusta (aparte de comer y dormir) son los **videojuegos** 🎮 —
 - 🎮 Amo los videojuegos desde chiquito (y sí, me sigo emocionando como si tuviera 10)
 - 🧪 Estoy aprendiendo C#, Java, HTML, CSS, un poco de JS... y viendo qué más me gusta
 - 🔧 VS Code es mi segundo hogar
-- 🧠 Sueño con hacer mi propio juego algún día
+- 🧠 Sueño con hacer mi propio juego algún día.
 
 ---
 
